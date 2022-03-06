@@ -1,12 +1,17 @@
+/* Universal Styling */
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
 
+/* Body Styling */
+
 body {
     background-color: #d9dcd6;
 }
+
+/* Header content styling */
 
 header {
     padding: 20px;
@@ -41,6 +46,8 @@ header nav ul li {
     margin-left: 25px;
 }
 
+/* Main content styling */
+
 main {
     width: 75%;
     display: inline-block;
@@ -65,14 +72,7 @@ main img {
     max-height: 200px;
 }
 
-a {
-    color: #ffffff;
-    text-decoration: none;
-}
-
-p {
-    font-size: 16px;
-}
+/* Aside content styling */
 
 aside {
     margin-right: 20px;
@@ -101,6 +101,8 @@ aside section img {
     max-width: 150px;
 }
 
+/* Footer content styling */
+
 footer {
     padding: 30px;
     clear: both;
@@ -111,6 +113,19 @@ footer {
 footer h2 {
     font-size: 20px;
 }
+
+/* Elements used through out page */
+
+a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+p {
+    font-size: 16px;
+}
+
+/* Classes */
 
 .hero {
     height: 800px;
