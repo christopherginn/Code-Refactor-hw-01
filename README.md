@@ -38,7 +38,7 @@ Provide instructions and examples for use. Include screenshots as needed.
 
 To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
 
-    ![Screenshot 1](./assets/images/coderefactor_screenshot1.png)
+![Screenshot 1](./assets/images/coderefactor_screenshot1.png)
 
 ## Credits
 
